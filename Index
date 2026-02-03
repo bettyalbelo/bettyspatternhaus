@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Betty's Pattern Haus</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <!-- HERO SECTION -->
+    <header class="hero">
+        <h1>BETTY’S PATTERN HAUS</h1>
+        <h2>Curated gateway to my Etsy shops</h2>
+        <p>A minimal, modern hub for digital sewing patterns, hand‑made bags, and couture doll designs.</p>
+    </header>
+
+    <!-- SHOP CARDS -->
+    <section class="shops">
+        <div class="shop-card">
+            <h3>BETTY’S PATTERN HAUS</h3>
+            <p class="tagline">Hand‑Made Bags and Patterns</p>
+            <p>Digital sewing patterns for your next creative project. Easy to follow, professional designs.</p>
+            <a class="button" href="#" target="_blank">Shop Bag Patterns</a>
+        </div>
+
+        <div class="shop-card">
+            <h3>Doll Couture by Betty</h3>
+            <p class="tagline">Hand‑Made Doll Outfits and Patterns</p>
+            <p>High‑quality, handcrafted patterns and clothing for your favorite dolls.</p>
+            <a class="button" href="#" target="_blank">Shop Doll Patterns</a>
+        </div>
+    </section>
+
+    <!-- FEATURED IMAGES -->
+    <section class="featured">
+        <h2>Featured Designs</h2>
+        <div class="grid">
+            <!-- Add your images here -->
+            <!-- Example:
+            <img src="images/bag1.jpg" alt="Bag design">
+            -->
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>© 2026 Betty’s Pattern Haus</p>
+    </footer>
+
+</body>
+</html>
